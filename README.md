@@ -23,6 +23,7 @@ pod "FAPickerView"
 ## Author
 
 fadizant, fadizant@hotmail.com
+source design CZPicker
 
 ## License
 
